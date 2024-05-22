@@ -1,0 +1,6 @@
+{
+    "files": ["app.ui","main.py","app.py","parameters_lib.py","sqlite_for_project.py"],
+    "pythonPath": "python",
+    "projectType": "PyQt5",
+    "name": "MyPyQt5App"
+}
